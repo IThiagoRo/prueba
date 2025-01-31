@@ -21,4 +21,4 @@ var/
 
 example.py
 data.csv
-precios.db
+#precios.db
